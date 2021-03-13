@@ -1,0 +1,106 @@
+#EXTM3U
+
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://yt3.ggpht.com/ytc/AAUvwnh_vBwgtcYQhBavmo10k3PGxI0nDoXgaLDdDtZAFh0=s88-c-k-c0x00ffffff-no-rj" group-title="NOTICIAS",CNN en Español
+https://www.youtube.com/watch?v=_rpPPGketWo
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://yt3.ggpht.com/ytc/AAUvwngW6-MerXIuSb6XigQ0cwkzl11U9LqBGTROAA0ifA=s88-c-k-c0x00ffffff-no-rj" group-title="NOTICIAS",NTN24
+https://www.youtube.com/watch?v=VKeQipmgCio
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/6/6e/Noticiasrcnintro2002.gif/revision/latest/scale-to-width-down/142?cb=20171227040853" group-title="NOTICIAS",NOTICIAS CARACOL
+https://www.youtube.com/watch?v=FLhqG8mK4Vk
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://yt3.ggpht.com/a/AATXAJy4Dn6akCxdq83ADDpEF6W8o7dSg1nBCxadsmDLtQ=s48-c-k-c0xffffffff-no-rj-mo" group-title="NOTICIAS",NoticiasUnoColombia
+https://www.youtube.com/watch?v=ihdOgsDknb4
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://yt3.ggpht.com/a/AATXAJxA4RetMC6IppvMZxENptIEd4WiuDLmlTwKvg=s48-c-k-c0xffffffff-no-rj-mo" group-title="NOTICIAS",VPI TV
+https://www.youtube.com/watch?v=hVJe7gJDSbE
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://yt3.ggpht.com/a/AATXAJxUP2n_WP4LLDHr_bf52wc8Q34IonztYoTWdLUU=s48-c-k-c0xffffffff-no-rj-mo" group-title="NOTICIAS",FRANCE 24 Español
+https://www.youtube.com/watch?v=fKjynhhrfqU
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/Euronews._2016_alternative_logo.png/600px-Euronews._2016_alternative_logo.png" group-title="NOTICIAS",euronews en español
+https://www.youtube.com/watch?v=JbKgQhFlMdU
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://images-na.ssl-images-amazon.com/images/I/61-5K6QDrnL.png" group-title="NOTICIAS",Euronews English
+https://www.youtube.com/watch?v=sPgqEHsONK8
+
+#EXTINF:-1 tvg-id="" tvg-logo="http://okteve.com/wp-content/uploads/media/0b642bd38cc33088a851051b4f14b61b.jpeg" group-title="NOTICIAS",euronews in italiano
+https://www.youtube.com/watch?v=6Wbu_82PF2I
+
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://yt3.ggpht.com/a/AATXAJwL40kPaeXiF1EjHFm_8_i6pWYMYqNN2Gght56n=s48-c-k-c0xffffffff-no-rj-mo" group-title="NOTICIAS",América TV
+https://www.youtube.com/watch?v=2Vyx4ee2Tss
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://yt3.ggpht.com/a/AATXAJzUzL5WtkaliHZEkWj74jFKhcP2wq2wUAdJ756R1g=s48-c-k-c0xffffffff-no-rj-mo" group-title="NOTICIAS",Todo Noticias
+https://www.youtube.com/watch?v=wHn1_QVoXGM
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://yt3.ggpht.com/a/AATXAJy_Kqcz7VTjKY5S_4d4RB8e7ztxHOCw3hrAO38IMS0=s48-c-k-c0xffffffff-no-rj-mo" group-title="NOTICIAS",Noticieros Televisa
+https://www.youtube.com/watch?v=qM8RYN1MAh8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://yt3.ggpht.com/a/AATXAJxh17s5FTq4k38KAEqsxTj1_cXNyFcfh-bsni7OgA=s48-c-k-c0xffffffff-no-rj-mo" group-title="NOTICIAS",Meganoticias
+https://www.youtube.com/watch?v=Et4i_BymLGQ
+
+#EXTINF:-1 group-title="NOTICIAS" tvg-logo="https://farm4.staticflickr.com/3676/13294906445_e9c5b1028e.jpg",Globovisión
+https://www.youtube.com/watch?v=1nnZBQzKBGk
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://yt3.ggpht.com/a/AATXAJx4g2rRXMb-4voL_qUnknKksu6XtDiIc_otx33z=s48-c-k-c0xffffffff-no-rj-mo" group-title="NOTICIAS",DW Español
+https://www.youtube.com/watch?v=bKpGAHgpYoU
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://yt3.ggpht.com/a/AATXAJwRkdOM4C9bP8FqyKDFfUkIhRJmyvEnkzDr_JsizA=s48-c-k-c0xffffffff-no-rj-mo" group-title="NOTICIAS",Canal26
+https://www.youtube.com/watch?v=lUFwVsREwrs
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Russia-today-logo.svg/125px-Russia-today-logo.svg.png" group-title="NOTICIAS",RT Español
+https://rt-esp.secure.footprint.net/1102.m3u8?fluxustv.m3u8
+
+#EXTINF:-1 group-title="NOTICIAS" tvg-logo="https://www.telesurtv.net/export/sites/telesur/arte/log-iso-telesur.png_253617125.png",TeleSUR
+https://d2ajt1gpdtnw25.cloudfront.net/mbliveMain/360p/chunklist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.vtv.gob.ve/wp-content/uploads/2018/10/logo.gif" group-title="NOTICIAS",VTV
+https://www.youtube.com/watch?v=GDcBwADdZtA
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://lagazzettadf.com/wp-content/uploads/2014/10/hispan_tv.png" group-title="NOTICIAS",HISPANTV
+https://live1.presstv.com/live/hispan_360p/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://img2.rtve.es/css/rtve.commons/rtve.header.footer/i/logoRTVE.png" group-title="NOTICIAS",RTVE Noticias
+https://www.youtube.com/watch?v=ygn_yNdJ5us
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://yt3.ggpht.com/a/AATXAJyftsHi9OTw-ntG8F6nUk23ZBmk_PfCPCKSDCJGcw=s48-c-k-c0xffffffff-no-rj-mo" group-title="NOTICIAS",LN+ EN VIVO las 24 horas
+https://www.youtube.com/watch?v=4XxIccmi49A
+
+
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://yt3.ggpht.com/a/AATXAJzrcg6Tz0TW68geX06vzELZZ07W_kSGjRT_msoX2A=s48-c-k-c0xffffffff-no-rj-mo" group-title="NOTICIAS",A24
+https://www.youtube.com/watch?v=wv_a0T5OtU4
+
+
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://static.americateve.com/adjuntos/179/imagenes/000/428/0000428704.png" group-title="NOTICIAS",AmericaTeve
+https://americateve-rokuus.amagi.tv/masterR404p.m3u8
+
+#EXTINF:-1 group-title="NOTICIAS" tvg-logo="https://www.radiotelevisionmarti.com/Content/responsive/OCB/es-CU/img/logo.png",TV Marti
+http://ocb-lh.akamaihd.net/i/ocb_mpls_tvmc1@383606/master.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="NOTICIAS",CGTN Español
+http://livees.cgtn.com/1000e/prog_index.m3u8
+
+#EXTINF:-1 group-title="NOTICIAS" tvg-logo="https://elpinguino.com/assets/img/logo.png",EL Pinguino
+http://streaming.elpinguino.com:1935/live/pinguinotv_720p/livestream.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://yt3.ggpht.com/a/AATXAJzEVYZVlmnjrZv36xTmpcZd5myRDlTOznDFY45z=s48-c-k-c0xffffffff-no-rj-mo" group-title="NOTICIAS",Crónica HD en vivo las 24 horas
+https://www.youtube.com/watch?v=wHn1_QVoXGM
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://assets.bwbx.io/s3/javelin/public/javelin/images/social-default-a4f15fa7ee.jpg" group-title="NOTICIAS",Bloomberg
+http://cdn-videos.akamaized.net/btv/desktop/akamai/us/live/primary.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="http://photocall.tv/images/cbs.png" group-title="NOTICIAS",CBS News
+http://cbsnewshd-lh.akamaihd.net/i/CBSNHD_7@199302/master.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="http://photocall.tv/images/wn.png" group-title="NOTICIAS",Wather Nation
+http://cdnapi.kaltura.com/p/931702/sp/93170200/playManifest/entryId/1_oorxcge2/format/applehttp/.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.sakuratv.com/wp-content/uploads/2018/10/ch3-japanews24-logo.png" group-title="NOTICIAS",JapaNews24 ～日本のニュースを24時間配信
+https://www.youtube.com/watch?v=coYw-eVU0Ks
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://yt3.ggpht.com/a/AATXAJxbXLSZAcpiuV2Ou7mDHUpbryQ-q0X2-xsWr4z_Nw=s48-c-k-c0xffffffff-no-rj-mo" group-title="NOTICIAS",LIVE NOW
+https://www.youtube.com/watch?v=vCDDYb_M2B4
