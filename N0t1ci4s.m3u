@@ -1,8 +1,11 @@
 #EXTM3U
 
+#EXTINF:-1 tvg-id="NOTICIAS" tvg-logo="https://scontent-mia3-1.xx.fbcdn.net/v/t1.0-9/s960x960/125284177_2690276337968906_4182360102856639494_o.jpg?_nc_cat=108&ccb=1-3&_nc_sid=e3f864&_nc_ohc=Ofm3e3KEnkIAX9t2brB&_nc_ht=scontent-mia3-1.xx&tp=7&oh=81e5692069f9eb0b2fcab212e0cfb448&oe=607A0B72" group-title="MUSICA",DEPOSITOFTA actualizado 21-03-21
+https://www.youtube.com/watch?v=CZMY20tQGRM
+ 
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://yt3.ggpht.com/ytc/AAUvwnh_vBwgtcYQhBavmo10k3PGxI0nDoXgaLDdDtZAFh0=s88-c-k-c0x00ffffff-no-rj" group-title="NOTICIAS",CNN en Español
-https://www.youtube.com/watch?v=_rpPPGketWo
+https://www.youtube.com/watch?v=K-vgW37V-E4
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://yt3.ggpht.com/ytc/AAUvwngW6-MerXIuSb6XigQ0cwkzl11U9LqBGTROAA0ifA=s88-c-k-c0x00ffffff-no-rj" group-title="NOTICIAS",NTN24
 https://www.youtube.com/watch?v=VKeQipmgCio
@@ -11,13 +14,10 @@ https://www.youtube.com/watch?v=VKeQipmgCio
 https://www.youtube.com/watch?v=FLhqG8mK4Vk
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://yt3.ggpht.com/a/AATXAJy4Dn6akCxdq83ADDpEF6W8o7dSg1nBCxadsmDLtQ=s48-c-k-c0xffffffff-no-rj-mo" group-title="NOTICIAS",NoticiasUnoColombia
-https://www.youtube.com/watch?v=ihdOgsDknb4
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://yt3.ggpht.com/a/AATXAJxA4RetMC6IppvMZxENptIEd4WiuDLmlTwKvg=s48-c-k-c0xffffffff-no-rj-mo" group-title="NOTICIAS",VPI TV
-https://www.youtube.com/watch?v=hVJe7gJDSbE
+https://www.youtube.com/watch?v=g89oeXjErVg
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://yt3.ggpht.com/a/AATXAJxUP2n_WP4LLDHr_bf52wc8Q34IonztYoTWdLUU=s48-c-k-c0xffffffff-no-rj-mo" group-title="NOTICIAS",FRANCE 24 Español
-https://www.youtube.com/watch?v=fKjynhhrfqU
+https://www.youtube.com/watch?v=veksloiBc3Q
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/Euronews._2016_alternative_logo.png/600px-Euronews._2016_alternative_logo.png" group-title="NOTICIAS",euronews en español
 https://www.youtube.com/watch?v=JbKgQhFlMdU
@@ -26,7 +26,7 @@ https://www.youtube.com/watch?v=JbKgQhFlMdU
 https://www.youtube.com/watch?v=sPgqEHsONK8
 
 #EXTINF:-1 tvg-id="" tvg-logo="http://okteve.com/wp-content/uploads/media/0b642bd38cc33088a851051b4f14b61b.jpeg" group-title="NOTICIAS",euronews in italiano
-https://www.youtube.com/watch?v=6Wbu_82PF2I
+https://www.youtube.com/watch?v=pnaF6XIU-yQ
 
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://yt3.ggpht.com/a/AATXAJwL40kPaeXiF1EjHFm_8_i6pWYMYqNN2Gght56n=s48-c-k-c0xffffffff-no-rj-mo" group-title="NOTICIAS",América TV
@@ -36,15 +36,15 @@ https://www.youtube.com/watch?v=2Vyx4ee2Tss
 https://www.youtube.com/watch?v=wHn1_QVoXGM
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://yt3.ggpht.com/a/AATXAJy_Kqcz7VTjKY5S_4d4RB8e7ztxHOCw3hrAO38IMS0=s48-c-k-c0xffffffff-no-rj-mo" group-title="NOTICIAS",Noticieros Televisa
-https://www.youtube.com/watch?v=qM8RYN1MAh8
+https://www.youtube.com/watch?v=9RzOKoaDnC8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://yt3.ggpht.com/a/AATXAJxh17s5FTq4k38KAEqsxTj1_cXNyFcfh-bsni7OgA=s48-c-k-c0xffffffff-no-rj-mo" group-title="NOTICIAS",Meganoticias
-https://www.youtube.com/watch?v=Et4i_BymLGQ
+https://www.youtube.com/watch?v=O6ubA6cEBxg
 
 #EXTINF:-1 group-title="NOTICIAS" tvg-logo="https://farm4.staticflickr.com/3676/13294906445_e9c5b1028e.jpg",Globovisión
-https://www.youtube.com/watch?v=1nnZBQzKBGk
+https://www.youtube.com/watch?v=XwREwvrm2iI
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://yt3.ggpht.com/a/AATXAJx4g2rRXMb-4voL_qUnknKksu6XtDiIc_otx33z=s48-c-k-c0xffffffff-no-rj-mo" group-title="NOTICIAS",DW Español
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="NOTICIAS",DW Español
 https://www.youtube.com/watch?v=bKpGAHgpYoU
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://yt3.ggpht.com/a/AATXAJwRkdOM4C9bP8FqyKDFfUkIhRJmyvEnkzDr_JsizA=s48-c-k-c0xffffffff-no-rj-mo" group-title="NOTICIAS",Canal26
